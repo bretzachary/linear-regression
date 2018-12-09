@@ -40,4 +40,4 @@ def linear_regression(data, power, models_to_plot):
     ret.extend(linreg.coef_)
     return ret
     
-    https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
+     https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/
